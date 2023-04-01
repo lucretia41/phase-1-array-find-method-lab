@@ -8,9 +8,9 @@ superbowlWin = (record) => {
 }
 // find((element, index, array) => { /* … */ })
 // function superbowlWin(record) {
-//     const payton = record.find(win => win.result === "W")
-//     if (payton) {
-//         return payton.year
+//     const peyton = record.find(win => win.result === "W")
+//     if (peyton) {
+//         return peyton.year
 //     } else {
 //         return undefined
 //     }
