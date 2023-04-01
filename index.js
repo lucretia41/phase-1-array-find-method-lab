@@ -19,7 +19,7 @@ superbowlWin = (record) => {
 //     const result = record.find(win => win.result === "W")
 //     return !!result ? result.year : undefined;
 // }
-// so i know how it goes when not using payton manning as a variable
+// so i know how it goes when not using peyton manning as a variable
 
 
 
