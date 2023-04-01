@@ -2,8 +2,8 @@
 
 
 superbowlWin = (record) => {
-    const payton = record.find(record => record.result === "W");
-    return !!payton ? payton.year : undefined;
+    const peyton = record.find(record => record.result === "W");
+    return !!peyton ? peyton.year : undefined;
 
 }
 // find((element, index, array) => { /* … */ })
